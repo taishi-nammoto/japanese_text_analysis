@@ -4,7 +4,7 @@ Mecab is utlized for text-data preprocessing. Mecab allows to select noun words 
 ### Data Preparation
 [Click here](https://github.com/taishi-nammoto/japanese_text_analysis/blob/main/data_scraping.py) to see how I collect data. 
 
-## Excel data
+### Excel data
 [Click here](https://github.com/taishi-nammoto/japanese_text_analysis/blob/main/article_data.xlsx?raw=true) to download the data I collect data. 
 
 ### Wordcloud analysis
